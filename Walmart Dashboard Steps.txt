@@ -1,0 +1,5 @@
+Profit By State by Map
+Profit By Customer Name by Horizontal bars
+Sales By Category by Tree Map
+Sales & Profit By Time by line and Bar chart(dual combinations)
+Finally Dashboard on Walmart Sales 
