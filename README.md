@@ -4,7 +4,7 @@
 
 The codes and information listed above are unique and it is open source to use.
 
-The files provided contain datasets, steps, and a Dashboard of different charts on TABLEAU.
+The files provided contain datasets, steps, and a Dashboard of different charts on **TABLEAU**.
 
 I started from scratch and advanced my skills in TABLEAU by practicing various sheet creation, operations, and creating dashboards on TABLEAU.
 
